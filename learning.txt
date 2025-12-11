@@ -1,1 +1,4 @@
-Today I learned how to work with branches, pull requests, commits, and collaboration on GitHub. I also understood the importance of version control and how it helps organize work and track changes easily.
+What I have learned from this course:
+
+I have learned how to use Git and GitHub, create repositories, work with branches, make commits, and collaborate through pull requests. I now understand the basics of version control, how to clone a repository, push changes, and manage files both locally and remotely. This course helped me build confidence in using Git tools for real projects.
+
